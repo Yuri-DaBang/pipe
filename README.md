@@ -14,10 +14,7 @@
 
 If you're using Nue3 or later, `pipe` is included by default. But if you need to install it manually, you can do so with the following steps:
 
-1. **Clone the pipe repo at NueWay org**:
-    ```sh
-    git clone <repo-dest>
-    ```
+[CloneTheRepo](https://github.com/NueWay)
 
 Voila! `pipe` should be installed.
 
